@@ -13,7 +13,7 @@ Exit: Terminates the program.
 
 Requirements
 A C++ compiler (e.g., GCC or Visual Studio) to compile and run the program.
-Basic understanding of C++ programming and Object-Oriented Programming (OOP) concepts.
+Basic understanding of C++ programming  and Object-Oriented Programming (OOP) concepts.
 
 How to Run
 Clone or download the repository to your local machine.
